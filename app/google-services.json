@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106451372108",
+    "project_id": "language-converter-3d6d1",
+    "storage_bucket": "language-converter-3d6d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106451372108:android:4531dddc3b206a0ac2cce9",
+        "android_client_info": {
+          "package_name": "com.example.languageconverter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRdUHUM5J7LXk25SpctUPZGrDRTkepuzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
